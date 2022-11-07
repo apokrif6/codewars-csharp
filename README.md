@@ -1,5 +1,5 @@
 # codewars-csharp
 
-List of completed codewars :)
+List of completed c# codewars :)
 
 Last actualization: `07.11.2022`
